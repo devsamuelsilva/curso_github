@@ -5,3 +5,23 @@ git status - mostra o status da pasta com os arquivos que estao sendo rastreados
 commitados - arquivos que foram salvos, salva aquivos no repositorio
 -m flag para comentar os arquivos que estado sendo salvos(commitados) no repositorio.
 git commit "nome do aquivo" -m (flag)
+git commit - se nao for posto nenhum nome de arquivos ele irà salvar todos.
+____________________________________________________________________________________________________________________________
+*Comandos passo a passo que o prorio gitHUB da para publicar o repositorio local no gitHUB*
+
+echo "# repositorio_teste" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/devsamuelsilva/repositorio_teste.git(Link do repositorio criado)
+git push -u origin main
+A linha 17 so precisar fazer uma unica vez apo`s isso apenas o "git push" ja funciona.
+____________________________________________________________________________________________________________________________
+*Serve para puxar do GITHUB(repositorio na nuvem) para o GIT(repositorio LOCAL)*
+
+…or push an existing repository from the command line
+git remote add origin https://github.com/devsamuelsilva/repositorio_teste.git
+git branch -M main
+git push -u origin main
+______________________________________________________________________________________________________________________________
