@@ -29,3 +29,9 @@ ________________________________________________________________________________
 Comando para puxar as atualizacoes do GITHUB
 
 git pull teste
+______________________________________________________________________________________________________________________________
+
+Clonando repositorios no guthub
+
+Dentro do terminal navegue ate a pasta que vc deseja colocar o clone do repositorio.
+depois e so digitar "git clone URL do repositorio" .(este ponto no final faz com que ele clone os arquivos direto pra dentro da pasta se nao ele irà clonar a pasta completa, ficando uma pasta dentro da outra)
