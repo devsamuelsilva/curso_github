@@ -28,4 +28,4 @@ ________________________________________________________________________________
 
 Comando para puxar as atualizacoes do GITHUB
 
-git pull
+git pull teste
