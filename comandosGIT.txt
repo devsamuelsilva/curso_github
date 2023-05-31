@@ -35,3 +35,12 @@ Clonando repositorios no guthub
 
 Dentro do terminal navegue ate a pasta que vc deseja colocar o clone do repositorio.
 depois e so digitar "git clone URL do repositorio" .(este ponto no final faz com que ele clone os arquivos direto pra dentro da pasta se nao ele irà clonar a pasta completa, ficando uma pasta dentro da outra)
+
+______________________________________________________________________________________________________________________________
+
+Comando para olha o LOG de todos os commit
+
+git log (apos esse comando ser1a exibido uma lista de todos os commits feitos comecando do mais novo)
+OBS: ao final sera exibido um END no qual voce nao consegue utilizar o termina. apenas digite Q que o terminal voltarà ao normal.
+
+______________________________________________________________________________________________________________________________
