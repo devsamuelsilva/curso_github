@@ -25,3 +25,7 @@ git remote add origin https://github.com/devsamuelsilva/repositorio_teste.git
 git branch -M main
 git push -u origin main
 ______________________________________________________________________________________________________________________________
+
+Comando para puxar as atualizacoes do GITHUB
+
+git pull
