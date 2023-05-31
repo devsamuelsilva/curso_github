@@ -44,3 +44,7 @@ git log (apos esse comando ser1a exibido uma lista de todos os commits feitos co
 OBS: ao final sera exibido um END no qual voce nao consegue utilizar o termina. apenas digite Q que o terminal voltarà ao normal.
 
 ______________________________________________________________________________________________________________________________
+
+Dando rollback no arquivo apos um erro
+
+git checkout (Retorna a versao que esta no repositorio do gitHUB)
