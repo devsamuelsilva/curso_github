@@ -61,3 +61,16 @@ usando o restore(reset)
 
 pra usar o restire que ira volta o status pro ultimo commit enviando para branch
 git reset --hard(forcar) oringin/main(nome da branch que deseja)
+______________________________________________________________________________________________________________________________
+
+git branch
+
+exibe as branch do meu projeto, *(informa a branch que estou conectado)
+
+______________________________________________________________________________________________________________________________
+
+git branch "nome da branch"(sem aspas)
+
+cria uma nova branch
+______________________________________________________________________________________________________________________________
+
