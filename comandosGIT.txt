@@ -57,3 +57,7 @@ ________________________________________________________________________________
 
  ______________________________________________________________________________________________________________________________
 
+usando o restore(reset)
+
+pra usar o restire que ira volta o status pro ultimo commit enviando para branch
+git reset --hard(forcar) oringin/main(nome da branch que deseja)
