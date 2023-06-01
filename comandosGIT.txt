@@ -78,5 +78,5 @@ git checkout "nome da branch"(sem aspas)
 
 muda para outra branch
 
-se usar a fralg -b assim git branch -b "nome da branch que quer criar"(com aspas) - ele ja cria e ja muda para ela.
+se usar a fralg -b assim git checkout -b "nome da branch que quer criar"(com aspas) - ele ja cria e ja muda para ela.
 ______________________________________________________________________________________________________________________________
