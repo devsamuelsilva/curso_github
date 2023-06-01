@@ -4,7 +4,7 @@ git add . - enviar todos os arquivos para serem monitorado(trackados)
 git status - mostra o status da pasta com os arquivos que estao sendo rastreados ou nao ou se jà foram commitados.
 commitados - arquivos que foram salvos, salva aquivos no repositorio
 -m flag para comentar os arquivos que estado sendo salvos(commitados) no repositorio.
-git commit "nome do aquivo" -m (flag)
+git commit "nome do aquivo" -m (flag) salva no repositorio local
 git commit - se nao for posto nenhum nome de arquivos ele irà salvar todos.
 ____________________________________________________________________________________________________________________________
 *Comandos passo a passo que o prorio gitHUB da para publicar o repositorio local no gitHUB*
