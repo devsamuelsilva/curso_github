@@ -48,3 +48,12 @@ ________________________________________________________________________________
 Dando rollback no arquivo apos um erro
 
 git checkout (Retorna a versao que esta no repositorio do gitHUB)
+
+______________________________________________________________________________________________________________________________
+ 
+ Criando uma arquivo no projeto com .giignore
+
+ todos os nomes de pastas(com / antes) e de arquivos nao serao enviados ao gitHUB
+
+ ______________________________________________________________________________________________________________________________
+
