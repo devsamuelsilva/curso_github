@@ -126,7 +126,7 @@ ________________________________________________________________________________
 
 git push origin (numero da tag) - envia somente uma tag/versao pra o github
 
-
+git push origin --tags - envia todas as tags para o gitHUB
 
 ______________________________________________________________________________________________________________________________
 
