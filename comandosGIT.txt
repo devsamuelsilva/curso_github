@@ -102,6 +102,8 @@ ________________________________________________________________________________
 
 GIT STASH
 
+git stash apply (ID sem os parenteses) volta o codigo para a versao que ficou armazenada no stash
+
 git stash list (exibi a lista com todas as stash com o ID da nova pra antiga)
 
 git stash show -p (id da stash) - mostra oque tem dentro daquela stash
