@@ -120,6 +120,8 @@ git tag -a (v2.0) -m "Nova funcionalidades da home do sistema." - entre parentes
 
 git tag - sem nada depois lista as versoes do codigo
 
+git show (numero da versao) - mostra o as informacoes daquela versao
+
 ______________________________________________________________________________________________________________________________
 
 
