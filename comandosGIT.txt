@@ -124,7 +124,7 @@ git show (numero da versao) - mostra o as informacoes daquela versao
 
 ______________________________________________________________________________________________________________________________
 
-
+git push origin (numero da tag) - envia somente uma tag/versao pra o github
 
 
 
