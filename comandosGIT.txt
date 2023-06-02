@@ -47,7 +47,7 @@ ________________________________________________________________________________
 
 Dando rollback no arquivo apos um erro
 
-git checkout (Retorna a versao que esta no repositorio do gitHUB)
+git checkout (Retorna a versao que esta no repositorio do gitHUB) sem nada escrito depois
 
 ______________________________________________________________________________________________________________________________
  
@@ -56,6 +56,8 @@ ________________________________________________________________________________
  todos os nomes de pastas(com / antes) e de arquivos nao serao enviados ao gitHUB
 
  ______________________________________________________________________________________________________________________________
+
+GIT RESET
 
 usando o restore(reset)
 
@@ -69,11 +71,15 @@ exibe as branch do meu projeto, *(informa a branch que estou conectado)
 
 ______________________________________________________________________________________________________________________________
 
-git branch "nome da branch"(sem aspas)
+GIT BRANCH
+g
+it branch "nome da branch"(sem aspas)
 
 cria uma nova branch
 para deletar uma branch podemos usar a flag -d assim git branch -d "nome da branch"(sem aspas)
 ______________________________________________________________________________________________________________________________
+
+GIT CHECKOUT
 
 git checkout "nome da branch"(sem aspas)
 
@@ -82,18 +88,26 @@ muda para outra branch
 se usar a fralg -b assim git checkout -b "nome da branch que quer criar"(com aspas) - ele ja cria e ja muda para ela.
 ______________________________________________________________________________________________________________________________
 
+GIT MERGE
+
 Como unir as branch(merge)
 
 git merge "nome da branch para unir com a main"(sem aspas)
 
+"voce tem que estar dentro da main"
 
+OBS: Obrigatorio o comentario aplicando o -m "" apos o comando de git merge nome da branch -m "comentario"
 
 ______________________________________________________________________________________________________________________________
 
+GIT STASH
 
+git stash list (exibi a lista com todas as stash com o ID da nova pra antiga)
 
+git stash show -p (id da stash) - mostra oque tem dentro daquela stash
 
-
+o git stash serve para trazer de volta o codigo para a vesao que esta no github. porem as mudancas que foram feitas ficam,
+gurdadas dentro da stash, que no caso podem ser recuperdas.
 
 
 ______________________________________________________________________________________________________________________________
