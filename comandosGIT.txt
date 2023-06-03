@@ -146,7 +146,9 @@ quando o pull ou o push tiver muito lento o comando git GC pode ajudar excluidnd
 
 ______________________________________________________________________________________________________________________________
 
+git shortlog
 
+tras todos o historico do projeto com todos os commits fetios do mais antigo pro mais novo de todos os usuarios do projeto
 
 
 ______________________________________________________________________________________________________________________________
