@@ -153,8 +153,12 @@ tras todos o historico do projeto com todos os commits fetios do mais antigo pro
 
 ______________________________________________________________________________________________________________________________
 
+Git diff
 
+mostra o que tem de diferente entre meu repositorio local e o que esta na nuvem
 
+git diff HEAD: nome do aquivo que quer comparar
+pra comparar pastas basta separa-las por "/" EX: git diff HEAD: projeto/styless/arquivo.css
 
 ______________________________________________________________________________________________________________________________
 

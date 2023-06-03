@@ -1,1 +1,6 @@
 sujeito programador
+curso git
+youtube
+apple
+tesla
+google
