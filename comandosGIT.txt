@@ -91,10 +91,9 @@ git merge "nome da branch para unir com a main"(sem aspas)
 ______________________________________________________________________________________________________________________________
 
 
+git gc
 
-
-
-
+quando o pull ou o push tiver muito lento o comando git GC pode ajudar excluidndo arquivos de cache e deixando mais rapido
 
 ______________________________________________________________________________________________________________________________
 
