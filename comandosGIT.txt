@@ -130,6 +130,10 @@ git push origin --tags - envia todas as tags para o gitHUB
 
 ______________________________________________________________________________________________________________________________
 
+gir fecth -a 
+
+busca todas as branch que estao no repositorio do github e compara com as do pc.
+mostra as que estao diferentes.
 
 
 
