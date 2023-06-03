@@ -174,5 +174,4 @@ parecido com git log
 exibe dados dos ultimos 30 dias por default - pode ser alterado mas nao e interessante.
 
 
-
 ______________________________________________________________________________________________________________________________
